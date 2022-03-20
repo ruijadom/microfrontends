@@ -7,3 +7,5 @@
 ### Why use them ? 
 - Allow multiple engineering teams to work in isolation
 - Each smaller app is easier to understand and make changes to
+
+![Alt text](./microfrontends.svg)
